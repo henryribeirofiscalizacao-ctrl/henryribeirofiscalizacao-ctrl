@@ -12,6 +12,12 @@
 
 ---
 
+## Explore os projetos
+
+- **[Sem Filtro Notícias — site público](https://www.tvsemfiltronoticias.com.br)**
+- **[Leninha Digital — site público](https://www.leninhadigital.com.br)**
+- **[RadarImob — estudo de caso técnico](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/radar-imob.md)**
+
 ## Olá! Sou Henry Ribeiro.
 
 Desenvolvo e evoluo soluções web, com foco em **interfaces responsivas, administração de conteúdo, aplicações de negócio e arquitetura de dados**.
@@ -19,12 +25,6 @@ Desenvolvo e evoluo soluções web, com foco em **interfaces responsivas, admini
 Meus projetos incluem um ecossistema jornalístico regional, uma plataforma SaaS imobiliária e uma experiência de leitura digital. Interesso-me especialmente por desenvolvimento web, segurança da informação, organização de aplicações e integrações.
 
 > Busco construir soluções claras para quem usa, compreensíveis para quem mantém e consistentes para quem administra.
-
-## Explore os projetos
-
-- **[Sem Filtro Notícias — site público](https://www.tvsemfiltronoticias.com.br)**
-- **[Leninha Digital — site público](https://www.leninhadigital.com.br)**
-- **[RadarImob — estudo de caso técnico](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/radar-imob.md)**
 
 ## Projetos em destaque
 
